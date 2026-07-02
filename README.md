@@ -12,7 +12,7 @@ Software Architect and Protocol Developer focused on industrial interoperability
 ### Current Initiatives
 
 * **[Draphera](https://draphera.com)**: Developing a validation layer to bridge the gap between design specifications and machine-level cutting processes.
-* **Vision**: An architectural project focused on creating trust-minimized validator nodes for industrial data streams.
+* **[Vision](https://vision.draphera.com)**: An architectural project focused on creating trust-minimized validator nodes for industrial data streams.
 
 ### Professional Presence
 
