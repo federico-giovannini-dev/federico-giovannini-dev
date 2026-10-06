@@ -1,23 +1,30 @@
-# Federico Giovannini
+Software Architect and Protocol Developer focused on industrial CAD interoperability, data integrity, and manufacturing software.
 
-Software Architect and Protocol Developer focused on industrial interoperability and data integrity within the manufacturing sector.
+I work on the boundary between CAD data, industrial formats, software architecture, and machine-level execution — turning legacy and heterogeneous technical specifications into reliable software systems.
 
 ### Technical Domains
 
-* **Industrial Protocol Development**: Specialized in low-level parsing and validation of AAMA, ASTM, HPGL/2, and ISO 274X specifications.
-* **Systems Architecture**: Designing robust pipelines for CAD/CAM integration, with a specific focus on high-fidelity data migration and error-resilient communication protocols.
-* **Blockchain Integration**: Researching and implementing validator node architectures to ensure production-level data consistency and auditability.
-* **Core Stack**: C#, .NET, and systems-level programming for manufacturing automation.
+- **Industrial CAD & Protocols**: Parsing, validation, and interpretation of HPGL/HP-GL, ISO/Gerber, AAMA, ASTM, and related manufacturing formats.
+- **CAD/CAM Architecture**: Designing format-neutral pipelines for geometry, evidence, validation, and industrial interoperability.
+- **Systems Architecture**: Building robust desktop and backend systems with an emphasis on deterministic behavior, traceability, and data integrity.
+- **Core Stack**: C#, .NET, WPF, and systems-level software for industrial applications.
+
+### Shipped Software
+
+- **Fashion Studio View** — Windows desktop CAD viewer for fashion and industrial workflows, published on Microsoft Store.
+  Built around a local, read-only CAD architecture with HPGL/HP-GL and ISO/Gerber support, technical inspection, measurements, CAD diagnostics, and reporting.
+
+  **Microsoft Store:** https://apps.microsoft.com/store/detail/9NRXKBC1XLLZ
 
 ### Current Initiatives
 
-* **[Draphera](https://draphera.com)**: Developing a validation layer to bridge the gap between design specifications and machine-level cutting processes.
-* **[Vision](https://vision.draphera.com)**: An architectural project focused on creating trust-minimized validator nodes for industrial data streams.
+- [**Draphera**](https://draphera.com/) — Industrial interoperability and validation technology connecting CAD data with machine-level execution.
+- [**VISION**](https://vision.draphera.com/) — Research and architecture for deterministic validation of industrial data streams.
 
 ### Professional Presence
 
-* **Website**: [www.draphera.com](https://www.draphera.com)
-* **LinkedIn**: [https://www.linkedin.com/in/federico-giovannini-draphera](https://www.linkedin.com/in/federico-giovannini-draphera)
+- **Website:** https://www.draphera.com/
+- **LinkedIn:** https://www.linkedin.com/in/federico-giovannini-draphera
 
 ---
 
